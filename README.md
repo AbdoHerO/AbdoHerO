@@ -44,8 +44,6 @@ I'm a passionate **Software Engineer** with hands-on experience in Full Stack De
 
 ## 📈 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdoHerO&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdoHerO&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdoHerO&theme=github_dark)
 
 
 ## 🌍 Let's Connect:
