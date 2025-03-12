@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B59B6&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Abderrahmane+Ouhna!;Software+Engineer+🚀" alt="Typing SVG" />
 </p>
-I'm a passionate **Software Engineer** with hands-on experience in Full Stack Development, specializing in JavaScript, Java, Python, AI-driven solutions, and Cloud Computing. I build scalable, high-performance applications using Angular, ReactJS, Spring Boot, Flutter, and Python (AI), crafting seamless user experiences and robust backend systems. My focus areas include AI, Deep Learning, OCR, and Multitenancy Systems, driving innovative solutions that push technological boundaries. 🚀
+I'm a passionate <b>Software Engineer</b> with hands-on experience in Full Stack Development, specializing in <b>JavaScript, Java, Python, AI-driven solutions, and Cloud Computing.</b> I build scalable, high-performance applications using Angular, ReactJS, Spring Boot, Flutter, and Python <b>(AI)</b>, crafting seamless user experiences and robust backend systems. My focus areas include <b>AI, Deep Learning, OCR, and Multitenancy Systems</b>, driving innovative solutions that push technological boundaries. 🚀
 
 ## 🔧 Tech Stack & Tools:
 
