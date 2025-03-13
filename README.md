@@ -41,6 +41,13 @@ I'm a passionate <b>Software Engineer</b> with hands-on experience in Full Stack
 - **Pharma Inventory** - A pharmaceutical product sales and inventory tracking system with **multitenancy**.
 - **AI Agent** - AI chatbot for company knowledge management using **PDF & Excel processing and Interaction with Database**.
 
+### 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdoHerO/AbdoHerO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdoHerO/AbdoHerO/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbdoHerO/AbdoHerO/output/github-snake.svg" />
+</picture>
+
 
 ## 📈 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdoHerO&theme=github_dark)
