@@ -3,11 +3,14 @@
   <img src="https://img.shields.io/badge/AI%20%26%20Cloud%20Computing-%23f97316.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%23084a81.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<!-- Banner or Typing SVG -->
+<!-- Banner or Typing SVG 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=9B59B6&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Abderrahmane+Ouhna!;Software+Engineer+🚀" alt="Typing SVG" />
-</p>
+</p>-->
+
+
 I'm a passionate <b>Software Engineer</b> with hands-on experience in Full Stack Development, specializing in <b>JavaScript, Java, Python, AI-driven solutions, and Cloud Computing.</b> I build scalable, high-performance applications using Angular, ReactJS, Spring Boot, Flutter, and Python <b>(AI)</b>, crafting seamless user experiences and robust backend systems. My focus areas include <b>AI, Deep Learning, OCR, and Multitenancy Systems</b>, driving innovative solutions that push technological boundaries. 🚀
 
 ## 🔧 Tech Stack & Tools:
@@ -47,8 +50,8 @@ I'm a passionate <b>Software Engineer</b> with hands-on experience in Full Stack
 
 
 
-## 📈 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdoHerO&theme=github_dark)
+<!--## 📈 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdoHerO&theme=github_dark)-->
 
 
 ## 🌍 Let's Connect:
